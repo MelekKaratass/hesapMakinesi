@@ -1,0 +1,14 @@
+C:\calismalarim\hesapMakinesi\hesapMakinesi\bin\Debug\net9.0\hesapMakinesi.exe
+C:\calismalarim\hesapMakinesi\hesapMakinesi\bin\Debug\net9.0\hesapMakinesi.deps.json
+C:\calismalarim\hesapMakinesi\hesapMakinesi\bin\Debug\net9.0\hesapMakinesi.runtimeconfig.json
+C:\calismalarim\hesapMakinesi\hesapMakinesi\bin\Debug\net9.0\hesapMakinesi.dll
+C:\calismalarim\hesapMakinesi\hesapMakinesi\bin\Debug\net9.0\hesapMakinesi.pdb
+C:\calismalarim\hesapMakinesi\hesapMakinesi\obj\Debug\net9.0\hesapMakinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\calismalarim\hesapMakinesi\hesapMakinesi\obj\Debug\net9.0\hesapMakinesi.AssemblyInfoInputs.cache
+C:\calismalarim\hesapMakinesi\hesapMakinesi\obj\Debug\net9.0\hesapMakinesi.AssemblyInfo.cs
+C:\calismalarim\hesapMakinesi\hesapMakinesi\obj\Debug\net9.0\hesapMakinesi.csproj.CoreCompileInputs.cache
+C:\calismalarim\hesapMakinesi\hesapMakinesi\obj\Debug\net9.0\hesapMakinesi.dll
+C:\calismalarim\hesapMakinesi\hesapMakinesi\obj\Debug\net9.0\refint\hesapMakinesi.dll
+C:\calismalarim\hesapMakinesi\hesapMakinesi\obj\Debug\net9.0\hesapMakinesi.pdb
+C:\calismalarim\hesapMakinesi\hesapMakinesi\obj\Debug\net9.0\hesapMakinesi.genruntimeconfig.cache
+C:\calismalarim\hesapMakinesi\hesapMakinesi\obj\Debug\net9.0\ref\hesapMakinesi.dll
